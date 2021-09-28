@@ -1,6 +1,6 @@
-# Nvstr Frontend Engineer Candidate Project
+# Tornado Frontend Engineer Candidate Project
 
-As a Frontend Engineer at Nvstr, you’ll be part of a team maintaining and adding to our customer-facing web and mobile applications.
+As a Frontend Engineer at Tornado, you’ll be part of a team maintaining and adding to our customer-facing web and mobile applications.
 
 We’d like you to complete a small project to demonstrate your skills in writing well-styled, clear, efficient, reusable frontend components. For this project you’ll create a UI component that will display some mock portfolio data.
 
